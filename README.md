@@ -35,8 +35,8 @@ All you have to do to play this game in your system is to follow the simple step
 1. Make sure that you have Python 3 (tested on Python 3.8 and above) installed in your system
 2. Download and unzip this repository, and store it in a location of your choice in your system
 3. Open a Command Prompt (or terminal) window and change the working directory to the location where you stored the downloaded repository
-4. Run the following command in order to install all the necessary packages: "pip install -r requirements.txt" (Make sure that you have the administrative rights to install the packages)
-5. Run the following command, and you are good to go: "python game.py"
+4. Run the following command in order to install all the necessary packages: `pip install -r requirements.txt` (Make sure that you have the administrative rights to install the packages)
+5. Run the following command, and you are good to go: `python game.py`
 
 ## Known Issues:
 
