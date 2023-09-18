@@ -7,9 +7,11 @@ This repository contains a simple python-based game which demonstrates the Proof
 In this game, your task is to play the role of the legendary John Connor, and try to escape from the T-1000 that has been sent back in time to kill him, in a very simple replay of the chase scene in the movie "Terminator 2: Judgement Day". 
 
 John Connor:
+
 ![John Connor](jc.JPG)
 
 T-1000:
+
 ![T-1000](t-1000.JPG)
 
 When the game script is first ran, it will first attempt to detect all the webcam(s) that is attached to the PC/laptop, after which a simple Graphics User Interface (GUI) will appear, as illustrated below:
