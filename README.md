@@ -1,4 +1,4 @@
-# Webcam_Gaze_Tracking_Demo
+# Webcam-Gaze-Tracking-Demo
 
 This repository contains a simple python-based game which demonstrates the Proof-of-Concept (POC) webcam gaze tracking technology that is intended to be used in a web-based eye monitoring software for users who are suffering from Age-Related Macular Degeneration (AMD).
 
