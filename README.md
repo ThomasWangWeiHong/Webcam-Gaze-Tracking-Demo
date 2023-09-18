@@ -14,15 +14,18 @@ T-1000:
 
 ![T-1000](t-1000.JPG)
 
-When the game script is first ran, it will first attempt to detect all the webcam(s) that is attached to the PC/laptop, after which a simple Graphics User Interface (GUI) will appear, as illustrated below:
+When the game is first executed, it will attempt to detect all the webcam(s) that is attached to the PC/laptop, after which a simple Graphics User Interface (GUI) will appear, as illustrated below:
+
 ![GUI](GUI.PNG)
 
-Select the webcam which you wanted to use from the dropdown menu, and a preview of the webcam feed will be shown on the GUI. Once you are satisfied with youre choice, you can click on the "Calibration" button, at which point the calibration process will begin. Throughout this calibration process, all you have to do is to stare at the colored circles as they appear on the screen, without moving your head. A preview of the calibration process is illustrated below. Once the calibration process is completed, you will be taken back to the GUI page, but with the "Start Game" button enabled this time.
+Select the webcam which you want to use from the dropdown menu, and a preview of the webcam feed will be shown on the GUI. Once you are satisfied with your choice, you can click on the "Calibration" button, at which point the calibration process will begin. Throughout this calibration process, all you have to do is to stare at the colored circles as they appear on the screen, without moving your head. A preview of the calibration process is illustrated below. Once the calibration process is completed, you will be taken back to the GUI page, but with the "Start Game" button enabled this time.
+
 ![Calibration](Calib_Demo.gif)
 
-Once you click on the "Start Game" button, the game will begin. All you have to do is to look at a particular position on the screen, and "John Connor" will start to move towards wherever you are looking at. Do note that "John Connor" will always spawn at the centre of the screen. The "T-1000" will initially spawn at random locations throughout the screen (but will always be sufficently far away from "John Connor" so that you have time to plan an escape route), and it will always move towards "John Connor"'s position. If the "T-1000" gets too close to "John Connor", then he will be "terminated", and the game ends with the current surviving time displayed on the screen. Your task is to survive for as long as possible without getting caught by the "T-1000". A quick demonstration of the game play is illustrated below.
+Once you click on the "Start Game" button, the game will begin. All you have to do is to look at a particular position on the screen, and John Connor will start to move towards wherever you are looking at. Do note that John Connor will always spawn at the centre of the screen. The T-1000 will initially spawn at random locations throughout the screen (but will always be sufficently far away from John Connor so that you have time to plan an escape route), and it will always move towards John Connor's position. If the T-1000 gets too close to John Connor, then he will be "terminated", and the game ends with the current surviving time displayed on the screen. Your task is to survive for as long as possible without getting caught by the T-1000. A quick demonstration of the game play is illustrated below.
 
 ![Game](Game_Demo.gif)
+
 
 The longest surviving time for each session will then be updated and displayed on the GUI page (which is 19.62s in this case). 
 
