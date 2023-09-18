@@ -10,7 +10,7 @@ John Connor:
 ![John Connor](jc.JPG)
 
 T-1000:
-![T-1000](t-1000.jpg)
+![T-1000](t-1000.JPG)
 
 When the game script is first ran, it will first attempt to detect all the webcam(s) that is attached to the PC/laptop, after which a simple Graphics User Interface (GUI) will appear, as illustrated below:
 ![GUI](GUI.PNG)
